@@ -1,4 +1,4 @@
-package br.com.minozzi.request.converters;
+package br.com.minozzi.request.converter;
 
 public class NumberConverter {
 	

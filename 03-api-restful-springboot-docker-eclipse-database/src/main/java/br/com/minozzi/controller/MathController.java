@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.minozzi.exception.UnsuportedMathOperationException;
 import br.com.minozzi.math.SimpleMath;
-import br.com.minozzi.request.converters.NumberConverter;
+import br.com.minozzi.request.converter.NumberConverter;
 
 @RestController
 public class MathController {
